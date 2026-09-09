@@ -239,4 +239,4 @@ This repository serves as the official landing page for Trojan Remover. The soft
 **Get the most recent version of Trojan Remover today!**
 
 ---
-**Last updated:** 2026-09-08 23:20:03 UTC
+**Last updated:** 2026-09-09 04:12:01 UTC
